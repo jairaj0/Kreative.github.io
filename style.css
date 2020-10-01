@@ -21,7 +21,7 @@ button {
 /* nav */
 
 .first-view {
-    background: url(/images/banner.jpg);
+    background: url(images/banner.jpg);
     background-size: cover;
     background-position: left;
     overflow-x: hidden;
@@ -264,35 +264,35 @@ nav{
 
 
 .grid1{
-    background: url(../images/river.png);
+    background: url(images/river.png);
 }
 
 .grid2{
-    background: url(../images/mountain.png);
+    background: url(images/mountain.png);
 }
 
 .grid3{
-    background: url(../images/girl-in-swing.png);
+    background: url(images/girl-in-swing.png);
 }
 
 .grid4{
-    background: url(../images/bird.png);
+    background: url(images/bird.png);
 }
 
 .grid5{
-    background: url(../images/child-playing.png);
+    background: url(images/child-playing.png);
 }
 
 .grid6{
-    background: url(../images/building.png);
+    background: url(images/building.png);
 }
 
 .grid7{
-    background: url(../images/man-in-forest.png);
+    background: url(images/man-in-forest.png);
 }
 
 .grid8{
-    background: url(../images/river-near-mountain.png);
+    background: url(images/river-near-mountain.png);
 }
 
 /* BLOGS */
@@ -342,7 +342,7 @@ nav{
 
 
 .contact {
-    background: url(../images/map.jpg);
+    background: url(images/map.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 20rem;
