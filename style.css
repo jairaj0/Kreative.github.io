@@ -60,6 +60,13 @@ nav{
     padding: 1.4rem 0;
 }
 
+.header .active{
+    color: tomato;
+    border-bottom: 6px solid tomato;
+    border-top: 6px solid tomato;
+    padding: 1.4rem 0;
+}
+
 .left-txt {
     position: relative;
     top: 9rem;
